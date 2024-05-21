@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/abdominal-aortic-aneurysm-replace---primary.py
+inputModule3:
+  class: File
+  path: python/aneurysm---primary.py
+inputModule4:
+  class: File
+  path: python/abdominal-aortic-aneurysm-mention---primary.py
+inputModule5:
+  class: File
+  path: python/abdominal-aortic-aneurysm-graft---primary.py
+inputModule6:
+  class: File
+  path: python/abdominal-aortic-aneurysm-repair---primary.py
+inputModule7:
+  class: File
+  path: python/abdominal-aortic-aneurysm-rupture---primary.py
+inputModule8:
+  class: File
+  path: python/abdominal-aortic-aneurysm---primary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
